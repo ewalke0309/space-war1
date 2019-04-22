@@ -25,7 +25,7 @@ Syntax highlighted code block
 ### Backstory
 - You must protect your solar system from the alien invaders
 - Kill all of the invaders to win
--![Start Screen.png](src)
+-![Image](Start Screen.png)
 ### Instructions
 - press "Space" to start
 - press "Esc" to quit
@@ -35,5 +35,5 @@ Syntax highlighted code block
 
 ### Scoring
 - Every enemy that you kill gives you 100 points
--![Scoring.png](src)
+-![Image](Scoring.png)
 
