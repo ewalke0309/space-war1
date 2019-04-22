@@ -25,7 +25,7 @@ Syntax highlighted code block
 ### Backstory
 - You must protect your solar system from the alien invaders
 - Kill all of the invaders to win
--![Image](Start Screen.png)
+-![Image](Start_Screen.png)
 ### Instructions
 - press "Space" to start
 - press "Esc" to quit
