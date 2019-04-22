@@ -24,11 +24,11 @@ Syntax highlighted code block
 ```
 ### Backstory
 - You must protect your solar system from the alien invaders
--![Image](Start_Screen.png)
+![Image](Start_Screen.png)
 - Kill all of the invaders to win
--![Image](Win_Screen.png)
+![Image](Win_Screen.png)
 - If you fail they will easily take over our solar system
--![Image](Lose_Screen.png)
+![Image](Lose_Screen.png)
 
 ### Instructions
 - press "Space" to start
@@ -39,7 +39,7 @@ Syntax highlighted code block
 
 ### Scoring
 - Every enemy that you kill gives you 100 points
--![Image](Scoring.png)
+![Image](Scoring.png)
 - 1000 points is the maximum amount you can get.
 
 ### Credits
